@@ -13,7 +13,7 @@ Duration:15Jul to 15Aug 2024
 
 Project:ToDo list Web Appliction
 
-#  Objective
+#* Objective
 
 The To Do API is provides a simple way for people to manage 
 their tasks and plan their day.A to-do list contains all the 
