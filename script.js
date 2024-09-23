@@ -1,4 +1,3 @@
-/*Todo list js code*/
 
 // Retrieve todo from local storage or initialize an empty array
 let todo = JSON.parse(localStorage.getItem("todo")) || [];
